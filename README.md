@@ -49,3 +49,6 @@ This technique is also not suitable if we have to use the same object parameter 
 - In Class we can implement method and declare fields and we use semicolon instead of commas.
 - We need to create an object of class as we know to access its fields and methods.
 
+### Objects
+
+- Instantiate an object of the class with the new keyword.
