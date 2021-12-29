@@ -58,3 +58,8 @@ This technique is also not suitable if we have to use the same object parameter 
 - Like in other programming languages Typescript has a constructor declared with constructor keyword.
 - Now, we don't have multiple constructor in typescript like other languages so we can make parameters optional in 
 constructor using ?. x?: number.
+
+## Access Modifiers in Constructor parameters
+
+- 3 types of access modifier, private, public mand protected.
+- Access modifiers used in constructor parameter to autointialize the field and declare them in the constructor.
