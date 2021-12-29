@@ -11,3 +11,13 @@
 - any array
 - enum
 
+### Type Assertion
+
+- Two ways to do type assertions: 
+
+1. First one is using angular brackets (<string>name)
+2. Second one is using as keyword (name as string)
+
+- Type assertion doesn't change the type of these endsWithC variable and alternativeWay variable at runtime, Its not going to restructure that object in memory.
+It is purely a way to tell typescript compiler about the type of variable so we can access the intellisense.
+
