@@ -52,3 +52,9 @@ This technique is also not suitable if we have to use the same object parameter 
 ### Objects
 
 - Instantiate an object of the class with the new keyword.
+
+### Constructors
+
+- Like in other programming languages Typescript has a constructor declared with constructor keyword.
+- Now, we don't have multiple constructor in typescript like other languages so we can make parameters optional in 
+constructor using ?. x?: number.
