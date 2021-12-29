@@ -41,3 +41,11 @@ This technique is also not suitable if we have to use the same object parameter 
 
 2. Interfaces
 - Second way is to use interfaces, with this we can define our custom type which can be annotated on any object in a parameter, required.
+
+### Classes
+
+- Classes are used in OOP to follow cohesion principle putting everything in one unit.
+- With interface we can only declare variable and methods.
+- In Class we can implement method and declare fields and we use semicolon instead of commas.
+- We need to create an object of class as we know to access its fields and methods.
+
