@@ -21,3 +21,7 @@
 - Type assertion doesn't change the type of these endsWithC variable and alternativeWay variable at runtime, Its not going to restructure that object in memory.
 It is purely a way to tell typescript compiler about the type of variable so we can access the intellisense.
 
+### Arrow Functions
+
+- Arrow Functions are just as same as lambda expression in other OOP
+- We use arrow functions in place of function expressions in Javascript.
